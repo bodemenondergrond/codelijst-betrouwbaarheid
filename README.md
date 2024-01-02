@@ -1,8 +1,8 @@
-# codelijst-betrouwbaarheden
+# codelijst-betrouwbaarheid
 
 ## Samenvatting
 
-De codelijst 'betrouwbaarheden' bevat eenduidige benamingen van ...
+De codelijst 'betrouwbaarheid' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

@@ -1,0 +1,36 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:C    rdf:type           skos:Concept;
+        dc:identifier      "C";
+        skos:inScheme      cs:betrouwbaarheid;
+        skos:prefLabel     "twijfelachtig"@nl;
+        skos:topConceptOf  cs:betrouwbaarheid .
+
+ct:B    rdf:type           skos:Concept;
+        dc:identifier      "B";
+        skos:inScheme      cs:betrouwbaarheid;
+        skos:prefLabel     "onbekend"@nl;
+        skos:topConceptOf  cs:betrouwbaarheid .
+
+colt:betrouwbaarheid  rdf:type  skos:Collection;
+        dc:identifier         "betrouwbaarheid";
+        skos:inScheme         <file:///tmp/RtmpeHMYJ3/cs>;
+        skos:mappingRelation  <file:///tmp/RtmpeHMYJ3/betrouwbaarheid>;
+        skos:member           ct:C , ct:B , ct:A;
+        skos:prefLabel        "Collectie van betrouwbaarheid."@nl .
+
+ct:A    rdf:type           skos:Concept;
+        dc:identifier      "A";
+        skos:inScheme      cs:betrouwbaarheid;
+        skos:prefLabel     "goed"@nl;
+        skos:topConceptOf  cs:betrouwbaarheid .
+
+cs:betrouwbaarheid  skos:hasTopConcept  ct:C , ct:B , ct:A .

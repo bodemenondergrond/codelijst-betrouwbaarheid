@@ -1,0 +1,5 @@
+"uri","type","dc.id","collection","notation","prefLabel","altLabel","broader","broaderTransitive","broadMatch","changeNote","closeMatch","definition","editorialNote","exactMatch","example","hiddenLabel","historyNote","inScheme","mappingRelation","note","related","relatedMatch","scopeNote","semanticRelation","topConceptOf"
+"colt:betrouwbaarheid","skos:Collection","betrouwbaarheid",,,"Collectie van betrouwbaarheid.",,,,,,,,,,,,,"cs","betrouwbaarheid",,,,,,
+"ct:A","skos:Concept","A","colt:betrouwbaarheid",,"goed",,,,,,,,,,,,,"cs:betrouwbaarheid",,,,,,,"cs:betrouwbaarheid"
+"ct:B","skos:Concept","B","colt:betrouwbaarheid",,"onbekend",,,,,,,,,,,,,"cs:betrouwbaarheid",,,,,,,"cs:betrouwbaarheid"
+"ct:C","skos:Concept","C","colt:betrouwbaarheid",,"twijfelachtig",,,,,,,,,,,,,"cs:betrouwbaarheid",,,,,,,"cs:betrouwbaarheid"

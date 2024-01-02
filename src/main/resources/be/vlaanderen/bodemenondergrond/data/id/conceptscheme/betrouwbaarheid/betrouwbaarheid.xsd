@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C"/>
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

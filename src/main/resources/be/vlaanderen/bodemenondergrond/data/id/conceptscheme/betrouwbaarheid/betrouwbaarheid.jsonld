@@ -1,0 +1,100 @@
+{
+    "@graph": [
+        {
+            "@id": "ct:C",
+            "skos:topConceptOf": {
+                "@id": "cs:betrouwbaarheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "twijfelachtig"
+            },
+            "skos:inScheme": {
+                "@id": "cs:betrouwbaarheid"
+            },
+            "dc:identifier": "C",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "cs:betrouwbaarheid",
+            "skos:hasTopConcept": [
+                {
+                    "@id": "ct:A"
+                },
+                {
+                    "@id": "ct:B"
+                },
+                {
+                    "@id": "ct:C"
+                }
+            ]
+        },
+        {
+            "@id": "ct:B",
+            "skos:topConceptOf": {
+                "@id": "cs:betrouwbaarheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "onbekend"
+            },
+            "skos:inScheme": {
+                "@id": "cs:betrouwbaarheid"
+            },
+            "dc:identifier": "B",
+            "@type": "skos:Concept"
+        },
+        {
+            "@id": "colt:betrouwbaarheid",
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "Collectie van betrouwbaarheid."
+            },
+            "skos:member": [
+                {
+                    "@id": "ct:A"
+                },
+                {
+                    "@id": "ct:B"
+                },
+                {
+                    "@id": "ct:C"
+                }
+            ],
+            "skos:mappingRelation": {
+                "@id": "file:///tmp/RtmpeHMYJ3/betrouwbaarheid"
+            },
+            "skos:inScheme": {
+                "@id": "file:///tmp/RtmpeHMYJ3/cs"
+            },
+            "dc:identifier": "betrouwbaarheid",
+            "@type": "skos:Collection"
+        },
+        {
+            "@id": "ct:A",
+            "skos:topConceptOf": {
+                "@id": "cs:betrouwbaarheid"
+            },
+            "skos:prefLabel": {
+                "@language": "nl",
+                "@value": "goed"
+            },
+            "skos:inScheme": {
+                "@id": "cs:betrouwbaarheid"
+            },
+            "dc:identifier": "A",
+            "@type": "skos:Concept"
+        }
+    ],
+    "@context": {
+        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/",
+        "dct": "http://purl.org/dc/terms/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
+    }
+}
