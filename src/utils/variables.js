@@ -11,6 +11,7 @@ const context = JSON.parse(fs.readFileSync(config.source.path + config.source.co
 
 const context_prefixes = Object.assign({},context , prefixes)
 
+const virtuoso = config.deploy.virtuoso ;
 
 const frame_skos_prefixes = {
     "@context": context_prefixes,
@@ -197,6 +198,7 @@ const xsd = config.skos.path + config.skos.name + '/' + config.skos.name + confi
 
 
 export {
+    virtuoso,
     ttl,
     nt,
     jsonld,

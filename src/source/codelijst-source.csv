@@ -1,6 +1,6 @@
 uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+conceptscheme:betrouwbaarheid,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.betrouwbaarheid,,,Conceptschema betrouwbaarheid.,,,,,,,Indicatie van betrouwbaarheid.,,,,,,,,,,,,,
 collectie:betrouwbaarheid,be.vlaanderen.bodemenondergrond.data.id.collection.betrouwbaarheid.betrouwbaarheid,,,Collectie van betrouwbaarheid.,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,
-A,be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.A,collectie:betrouwbaarheid,A,goed,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,conceptscheme:betrouwbaarheid
-B,be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.B,collectie:betrouwbaarheid,B,onbekend,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,conceptscheme:betrouwbaarheid
-C,be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.C,collectie:betrouwbaarheid,C,twijfelachtig,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,conceptscheme:betrouwbaarheid
-conceptscheme:betrouwbaarheid,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.betrouwbaarheid,,,Codelijst betrouwbaarheid.,,,,,,,Indicatie van betrouwbaarheid.,,,,,,,,,,,,,
+concept:A,be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.A,collectie:betrouwbaarheid,A,goed,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,conceptscheme:betrouwbaarheid
+concept:B,be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.B,collectie:betrouwbaarheid,B,onbekend,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,conceptscheme:betrouwbaarheid
+concept:C,be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.C,collectie:betrouwbaarheid,C,twijfelachtig,,,,,,,,,,,,,conceptscheme:betrouwbaarheid,,,,,,,conceptscheme:betrouwbaarheid

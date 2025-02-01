@@ -1,33 +1,33 @@
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.collection.betrouwbaarheid.betrouwbaarheid" .
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
-<https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> .
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> .
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> .
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/betrouwbaarheid/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectie van betrouwbaarheid."@nl .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.A" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/2004/02/skos/core#notation> "A" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/2004/02/skos/core#prefLabel> "goed"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.B" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/2004/02/skos/core#notation> "B" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/2004/02/skos/core#prefLabel> "onbekend"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.betrouwbaarheid.C" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/2004/02/skos/core#notation> "C" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/2004/02/skos/core#prefLabel> "twijfelachtig"@nl .
-<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.betrouwbaarheid" .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#definition> "Indicatie van betrouwbaarheid."@nl .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#note> "Indicatie van betrouwbaarheid."@nl .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst betrouwbaarheid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.betrouwbaarheid" .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#definition> "Indicatie van betrouwbaarheid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/A> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/B> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/betrouwbaarheid/C> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#note> "Indicatie van betrouwbaarheid."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/betrouwbaarheid> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conceptschema betrouwbaarheid."@nl .
